@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Performance Dashboard
 
-<img src="pizza-dashboard.png" width="100%">
+<img src="pizza-dashboard.png.Png" width="100%">
 
 ## 📊 Project Overview
 This dynamic and interactive Excel dashboard was built from scratch to analyze and visualize sales data for a pizza restaurant. The primary goal of this project is to track key performance indicators (KPIs), understand customer purchasing behavior, identify top-selling products, and pinpoint peak ordering hours to support operational and marketing decisions.
